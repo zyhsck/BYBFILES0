@@ -207,7 +207,7 @@ class DietNutritionAnalyzer:
         # === 图表样式 ===
         ax.set_xlabel('健康值 (CD-NDI)', fontsize=14)
         ax.set_ylabel('喜爱度', fontsize=14)
-        ax.set_title('优化后：食材聚合显示', fontsize=16)
+        ax.set_title('好感度与健康度匹配分析', fontsize=16)
         ax.grid(True, alpha=0.3)
         ax.legend(fontsize=12)
 
