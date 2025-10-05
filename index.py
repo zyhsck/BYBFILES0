@@ -223,20 +223,20 @@ class DietNutritionAnalyzer:
         
         if correlation < -0.3:
             print("分析结果: 存在明显的营养-喜爱度背离现象")
-            print("💡💡 建议: 需要重点改进高营养菜品的口味吸引力")
+            print("建议: 需要重点改进高营养菜品的口味吸引力")
         elif correlation > 0.3:
             print("分析结果: 营养与喜爱度呈现正相关")
-            print("💡💡 建议: 当前菜品设计较为合理，可继续优化")
+            print("建议: 当前菜品设计较为合理，可继续优化")
         else:
             print("分析结果: 营养与喜爱度关联性较弱")
             print("建议: 需要系统性优化菜品设计")
         
-        print("\n🏆🏆 匹配度最高菜品TOP5:")
+        print("\n匹配度最高菜品TOP5:")
         dishes_sorted = sorted(self.dishes, key=lambda x: x['match_score'], reverse=True)
         for i, dish in enumerate(dishes_sorted[:5]):
             print(f"{i+1}. {dish['name']} (匹配度: {dish['match_score']:.3f})")
         
-        print("\n📈📈 各类别表现分析:")
+        print("\n各类别表现分析:")
         categories = list(set([dish['category'] for dish in self.dishes]))
         for category in categories:
             cat_dishes = [dish for dish in self.dishes if dish['category'] == category]
@@ -245,7 +245,7 @@ class DietNutritionAnalyzer:
             print(f"{category}: 平均匹配度{avg_match:.3f}, 平均喜爱度{avg_popularity:.1f}")
         
         # 新增：食材使用频率分析
-        print("\n🥩🥬 食材使用频率分析:")
+        print("\n食材使用频率分析:")
         ingredient_freq = self.analyze_ingredient_frequency()
         for i, (ingredient, count) in enumerate(ingredient_freq[:10]):  # 显示前10个
             print(f"{i+1}. {ingredient}: 使用{count}次")
@@ -269,6 +269,6 @@ if __name__ == "__main__":
     
     # 找到最优组合
     optimal_dishes = analyzer.find_optimal_combination()
-    print("\n🎯🎯 推荐每日菜品组合:")
+    print("\n推荐每日菜品组合:")
     for i, dish in enumerate(optimal_dishes):
         print(f"{i+1}. {dish['name']} (营养: {dish['cd_ndi']:.1f}, 喜爱度: {dish['popularity_score']})")
