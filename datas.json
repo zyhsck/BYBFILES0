@@ -1,0 +1,2724 @@
+{
+  "dishes": [
+    {
+      "name": "红烧肉",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "猪五花肉",
+          "weight_g": 150,
+          "protein": 15.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 10.5,
+          "sodium": 45.0,
+          "addedSugar": 5.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 22.5,
+        "dietaryFiber": 0.0,
+        "saturatedFat": 15.75,
+        "sodium": 67.5,
+        "addedSugar": 7.5
+      },
+      "popularity_score": 8.5,
+      "consumption_frequency": 0.202
+    },
+    {
+      "name": "宫保鸡丁",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 149,
+          "protein": 9.64,
+          "dietaryFiber": 2.03,
+          "saturatedFat": 6.29,
+          "sodium": 549.23,
+          "addedSugar": 17.5
+        }
+      ],
+      "total_nutrition": {
+        "protein": 21.5,
+        "dietaryFiber": 0.01,
+        "saturatedFat": 8.39,
+        "sodium": 349.78,
+        "addedSugar": 16.25
+      },
+      "popularity_score": 9.5,
+      "consumption_frequency": 0.057
+    },
+    {
+      "name": "西红柿炒蛋",
+      "category": "蛋类",
+      "ingredients": [
+        {
+          "name": "鸡蛋",
+          "weight_g": 100,
+          "protein": 12.7,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 2.7,
+          "sodium": 126.0,
+          "addedSugar": 2.0
+        },
+        {
+          "name": "西红柿",
+          "weight_g": 150,
+          "protein": 0.9,
+          "dietaryFiber": 1.2,
+          "saturatedFat": 0.0,
+          "sodium": 5.0,
+          "addedSugar": 0.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 14.05,
+        "dietaryFiber": 1.8,
+        "saturatedFat": 1.08,
+        "sodium": 69.6,
+        "addedSugar": 2.0
+      },
+      "popularity_score": 7.8,
+      "consumption_frequency": 0.215
+    },
+    {
+      "name": "麻婆豆腐",
+      "category": "豆制品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 117,
+          "protein": 15.55,
+          "dietaryFiber": 0.52,
+          "saturatedFat": 0.28,
+          "sodium": 1447.95,
+          "addedSugar": 12.31
+        }
+      ],
+      "total_nutrition": {
+        "protein": 5.96,
+        "dietaryFiber": 1.6,
+        "saturatedFat": 8.94,
+        "sodium": 1083.6,
+        "addedSugar": 15.24
+      },
+      "popularity_score": 5.2,
+      "consumption_frequency": 0.082
+    },
+    {
+      "name": "清炒西兰花",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 148,
+          "protein": 11.59,
+          "dietaryFiber": 4.2,
+          "saturatedFat": 8.83,
+          "sodium": 519.13,
+          "addedSugar": 11.11
+        }
+      ],
+      "total_nutrition": {
+        "protein": 10.41,
+        "dietaryFiber": 2.75,
+        "saturatedFat": 0.21,
+        "sodium": 995.93,
+        "addedSugar": 9.58
+      },
+      "popularity_score": 7.0,
+      "consumption_frequency": 0.238
+    },
+    {
+      "name": "葱烧鱼块",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "龙利鱼",
+          "weight_g": 70,
+          "protein": 18.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 0.7,
+          "sodium": 80.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "葱",
+          "weight_g": 25,
+          "protein": 1.0,
+          "dietaryFiber": 1.5,
+          "saturatedFat": 0.0,
+          "sodium": 3.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "蒜",
+          "weight_g": 10,
+          "protein": 4.5,
+          "dietaryFiber": 1.1,
+          "saturatedFat": 0.0,
+          "sodium": 17.0,
+          "addedSugar": 0.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 15.05,
+        "dietaryFiber": 0.54,
+        "saturatedFat": 0.49,
+        "sodium": 60.1,
+        "addedSugar": 0.0
+      },
+      "popularity_score": 6.8,
+      "consumption_frequency": 0.134
+    },
+    {
+      "name": "老北京汆羊肉",
+      "category": "羊肉类",
+      "ingredients": [
+        {
+          "name": "羊肉",
+          "weight_g": 75,
+          "protein": 19.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 1.5,
+          "sodium": 70.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "生菜",
+          "weight_g": 20,
+          "protein": 1.5,
+          "dietaryFiber": 1.2,
+          "saturatedFat": 0.0,
+          "sodium": 10.0,
+          "addedSugar": 0.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 14.78,
+        "dietaryFiber": 0.24,
+        "saturatedFat": 1.13,
+        "sodium": 54.5,
+        "addedSugar": 0.0
+      },
+      "popularity_score": 7.2,
+      "consumption_frequency": 0.156
+    },
+    {
+      "name": "咖喱牛肉",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 109,
+          "protein": 19.28,
+          "dietaryFiber": 1.62,
+          "saturatedFat": 5.42,
+          "sodium": 641.15,
+          "addedSugar": 11.2
+        }
+      ],
+      "total_nutrition": {
+        "protein": 24.27,
+        "dietaryFiber": 0.07,
+        "saturatedFat": 5.78,
+        "sodium": 867.7,
+        "addedSugar": 9.52
+      },
+      "popularity_score": 6.2,
+      "consumption_frequency": 0.168
+    },
+    {
+      "name": "板栗炒鸡",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "鸡腿肉",
+          "weight_g": 70,
+          "protein": 19.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 3.2,
+          "sodium": 70.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "板栗",
+          "weight_g": 20,
+          "protein": 4.2,
+          "dietaryFiber": 1.7,
+          "saturatedFat": 0.2,
+          "sodium": 8.0,
+          "addedSugar": 0.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 14.14,
+        "dietaryFiber": 0.34,
+        "saturatedFat": 2.28,
+        "sodium": 50.6,
+        "addedSugar": 0.0
+      },
+      "popularity_score": 7.1,
+      "consumption_frequency": 0.142
+    },
+    {
+      "name": "黄豆炖排骨",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "猪排骨",
+          "weight_g": 95,
+          "protein": 18.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 5.5,
+          "sodium": 50.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "黄豆",
+          "weight_g": 10,
+          "protein": 35.0,
+          "dietaryFiber": 15.5,
+          "saturatedFat": 0.8,
+          "sodium": 2.0,
+          "addedSugar": 0.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 20.45,
+        "dietaryFiber": 1.55,
+        "saturatedFat": 5.33,
+        "sodium": 47.7,
+        "addedSugar": 0.0
+      },
+      "popularity_score": 7.6,
+      "consumption_frequency": 0.173
+    },
+    {
+      "name": "鱼香肉丝",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 188,
+          "protein": 13.31,
+          "dietaryFiber": 1.15,
+          "saturatedFat": 4.65,
+          "sodium": 339.25,
+          "addedSugar": 4.12
+        }
+      ],
+      "total_nutrition": {
+        "protein": 19.07,
+        "dietaryFiber": 1.11,
+        "saturatedFat": 3.86,
+        "sodium": 1392.02,
+        "addedSugar": 4.77
+      },
+      "popularity_score": 5.1,
+      "consumption_frequency": 0.269
+    },
+    {
+      "name": "酸辣土豆丝",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 167,
+          "protein": 19.71,
+          "dietaryFiber": 0.91,
+          "saturatedFat": 3.5,
+          "sodium": 1336.26,
+          "addedSugar": 13.3
+        }
+      ],
+      "total_nutrition": {
+        "protein": 13.68,
+        "dietaryFiber": 3.51,
+        "saturatedFat": 1.2,
+        "sodium": 739.58,
+        "addedSugar": 2.12
+      },
+      "popularity_score": 5.2,
+      "consumption_frequency": 0.19
+    },
+    {
+      "name": "紫菜蛋花汤",
+      "category": "汤品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 182,
+          "protein": 8.97,
+          "dietaryFiber": 2.75,
+          "saturatedFat": 1.22,
+          "sodium": 650.43,
+          "addedSugar": 7.57
+        }
+      ],
+      "total_nutrition": {
+        "protein": 19.59,
+        "dietaryFiber": 4.3,
+        "saturatedFat": 5.36,
+        "sodium": 1262.27,
+        "addedSugar": 11.32
+      },
+      "popularity_score": 7.5,
+      "consumption_frequency": 0.291
+    },
+    {
+      "name": "扬州炒饭",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 109,
+          "protein": 18.88,
+          "dietaryFiber": 2.13,
+          "saturatedFat": 8.3,
+          "sodium": 180.04,
+          "addedSugar": 1.12
+        }
+      ],
+      "total_nutrition": {
+        "protein": 15.53,
+        "dietaryFiber": 0.9,
+        "saturatedFat": 6.49,
+        "sodium": 1273.55,
+        "addedSugar": 14.31
+      },
+      "popularity_score": 6.7,
+      "consumption_frequency": 0.253
+    },
+    {
+      "name": "炸酱面",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "面条",
+          "weight_g": 150,
+          "protein": 8.5,
+          "dietaryFiber": 1.2,
+          "saturatedFat": 0.3,
+          "sodium": 3.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "猪肉末",
+          "weight_g": 50,
+          "protein": 21.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 2.5,
+          "sodium": 60.0,
+          "addedSugar": 0.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 12.25,
+        "dietaryFiber": 1.8,
+        "saturatedFat": 1.4,
+        "sodium": 31.5,
+        "addedSugar": 0.0
+      },
+      "popularity_score": 8.4,
+      "consumption_frequency": 0.231
+    },
+    {
+      "name": "香辣鸡腿堡套餐",
+      "category": "西式快餐",
+      "ingredients": [
+        {
+          "name": "炸鸡腿排",
+          "weight_g": 120,
+          "protein": 18.0,
+          "dietaryFiber": 0.5,
+          "saturatedFat": 8.5,
+          "sodium": 850.0,
+          "addedSugar": 3.0
+        },
+        {
+          "name": "汉堡面包",
+          "weight_g": 60,
+          "protein": 5.0,
+          "dietaryFiber": 1.5,
+          "saturatedFat": 0.3,
+          "sodium": 220.0,
+          "addedSugar": 6.0
+        },
+        {
+          "name": "中份薯条",
+          "weight_g": 100,
+          "protein": 3.0,
+          "dietaryFiber": 3.0,
+          "saturatedFat": 4.0,
+          "sodium": 350.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "可乐",
+          "weight_g": 400,
+          "protein": 0.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 0.0,
+          "sodium": 15.0,
+          "addedSugar": 42.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 26.0,
+        "dietaryFiber": 5.0,
+        "saturatedFat": 12.8,
+        "sodium": 1435.0,
+        "addedSugar": 51.0
+      },
+      "popularity_score": 9.2,
+      "consumption_frequency": 0.285
+    },
+    {
+      "name": "油炸鸡排饭",
+      "category": "台式便当",
+      "ingredients": [
+        {
+          "name": "油炸鸡排",
+          "weight_g": 150,
+          "protein": 25.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 12.0,
+          "sodium": 950.0,
+          "addedSugar": 5.0
+        },
+        {
+          "name": "白米饭",
+          "weight_g": 200,
+          "protein": 2.6,
+          "dietaryFiber": 0.3,
+          "saturatedFat": 0.1,
+          "sodium": 1.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "酱汁",
+          "weight_g": 30,
+          "protein": 1.0,
+          "dietaryFiber": 0.1,
+          "saturatedFat": 0.1,
+          "sodium": 600.0,
+          "addedSugar": 10.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 28.6,
+        "dietaryFiber": 0.4,
+        "saturatedFat": 12.2,
+        "sodium": 1551.0,
+        "addedSugar": 15.0
+      },
+      "popularity_score": 8.8,
+      "consumption_frequency": 0.253
+    },
+    {
+      "name": "烤肉拌饭",
+      "category": "风味快餐",
+      "ingredients": [
+        {
+          "name": "烤制鸡肉（含酱料）",
+          "weight_g": 120,
+          "protein": 20.0,
+          "dietaryFiber": 0.5,
+          "saturatedFat": 6.5,
+          "sodium": 1100.0,
+          "addedSugar": 15.0
+        },
+        {
+          "name": "白米饭",
+          "weight_g": 250,
+          "protein": 3.25,
+          "dietaryFiber": 0.38,
+          "saturatedFat": 0.13,
+          "sodium": 1.25,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "沙拉酱",
+          "weight_g": 25,
+          "protein": 0.5,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 3.5,
+          "sodium": 150.0,
+          "addedSugar": 8.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 23.75,
+        "dietaryFiber": 0.88,
+        "saturatedFat": 10.13,
+        "sodium": 1251.25,
+        "addedSugar": 23.0
+      },
+      "popularity_score": 8.5,
+      "consumption_frequency": 0.227
+    },
+    {
+      "name": "芝士焗饭",
+      "category": "西式简餐",
+      "ingredients": [
+        {
+          "name": "米饭",
+          "weight_g": 200,
+          "protein": 2.6,
+          "dietaryFiber": 0.3,
+          "saturatedFat": 0.1,
+          "sodium": 1.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "马苏里拉芝士",
+          "weight_g": 50,
+          "protein": 11.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 9.0,
+          "sodium": 180.0,
+          "addedSugar": 1.0
+        },
+        {
+          "name": "番茄酱/白酱",
+          "weight_g": 40,
+          "protein": 1.0,
+          "dietaryFiber": 0.5,
+          "saturatedFat": 1.5,
+          "sodium": 400.0,
+          "addedSugar": 12.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 14.6,
+        "dietaryFiber": 0.8,
+        "saturatedFat": 10.6,
+        "sodium": 581.0,
+        "addedSugar": 13.0
+      },
+      "popularity_score": 7.9,
+      "consumption_frequency": 0.186
+    },
+    {
+      "name": "炸串（混合）",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "油炸面筋/豆制品",
+          "weight_g": 100,
+          "protein": 15.0,
+          "dietaryFiber": 2.0,
+          "saturatedFat": 7.0,
+          "sodium": 800.0,
+          "addedSugar": 5.0
+        },
+        {
+          "name": "油炸酱料",
+          "weight_g": 20,
+          "protein": 1.0,
+          "dietaryFiber": 0.2,
+          "saturatedFat": 2.0,
+          "sodium": 500.0,
+          "addedSugar": 8.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 16.0,
+        "dietaryFiber": 2.2,
+        "saturatedFat": 9.0,
+        "sodium": 1300.0,
+        "addedSugar": 13.0
+      },
+      "popularity_score": 8.7,
+      "consumption_frequency": 0.198
+    },
+    {
+      "name": "珍珠奶茶（大杯）",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "全糖奶茶",
+          "weight_g": 400,
+          "protein": 2.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 6.0,
+          "sodium": 50.0,
+          "addedSugar": 60.0
+        },
+        {
+          "name": "珍珠",
+          "weight_g": 100,
+          "protein": 0.5,
+          "dietaryFiber": 1.0,
+          "saturatedFat": 0.0,
+          "sodium": 10.0,
+          "addedSugar": 20.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 2.5,
+        "dietaryFiber": 1.0,
+        "saturatedFat": 6.0,
+        "sodium": 60.0,
+        "addedSugar": 80.0
+      },
+      "popularity_score": 9.5,
+      "consumption_frequency": 0.312
+    },
+    {
+      "name": "火腿蛋炒饭",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "白米饭",
+          "weight_g": 250,
+          "protein": 3.25,
+          "dietaryFiber": 0.38,
+          "saturatedFat": 0.13,
+          "sodium": 1.25,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "火腿丁",
+          "weight_g": 50,
+          "protein": 8.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 7.5,
+          "sodium": 1500.0,
+          "addedSugar": 3.0
+        },
+        {
+          "name": "鸡蛋",
+          "weight_g": 50,
+          "protein": 6.35,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 1.35,
+          "sodium": 63.0,
+          "addedSugar": 0.0
+        },
+        {
+          "name": "炒饭用油",
+          "weight_g": 15,
+          "protein": 0.0,
+          "dietaryFiber": 0.0,
+          "saturatedFat": 3.0,
+          "sodium": 0.0,
+          "addedSugar": 0.0
+        }
+      ],
+      "total_nutrition": {
+        "protein": 17.6,
+        "dietaryFiber": 0.38,
+        "saturatedFat": 11.98,
+        "sodium": 1564.25,
+        "addedSugar": 3.0
+      },
+      "popularity_score": 8.0,
+      "consumption_frequency": 0.21
+    },
+    {
+      "name": "鸡蛋炒饭",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 93,
+          "protein": 9.72,
+          "dietaryFiber": 1.82,
+          "saturatedFat": 1.54,
+          "sodium": 236.0,
+          "addedSugar": 2.16
+        }
+      ],
+      "total_nutrition": {
+        "protein": 13.14,
+        "dietaryFiber": 0.76,
+        "saturatedFat": 1.83,
+        "sodium": 1028.12,
+        "addedSugar": 5.97
+      },
+      "popularity_score": 5.3,
+      "consumption_frequency": 0.23
+    },
+    {
+      "name": "青菜面",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 168,
+          "protein": 16.87,
+          "dietaryFiber": 0.28,
+          "saturatedFat": 4.12,
+          "sodium": 805.04,
+          "addedSugar": 10.5
+        }
+      ],
+      "total_nutrition": {
+        "protein": 6.91,
+        "dietaryFiber": 2.01,
+        "saturatedFat": 7.86,
+        "sodium": 1301.29,
+        "addedSugar": 17.33
+      },
+      "popularity_score": 5.8,
+      "consumption_frequency": 0.208
+    },
+    {
+      "name": "番茄鸡蛋面",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 156,
+          "protein": 13.0,
+          "dietaryFiber": 2.12,
+          "saturatedFat": 5.59,
+          "sodium": 1442.71,
+          "addedSugar": 14.71
+        }
+      ],
+      "total_nutrition": {
+        "protein": 16.36,
+        "dietaryFiber": 4.24,
+        "saturatedFat": 0.51,
+        "sodium": 1099.79,
+        "addedSugar": 2.65
+      },
+      "popularity_score": 5.0,
+      "consumption_frequency": 0.33
+    },
+    {
+      "name": "肉酱意面",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 190,
+          "protein": 13.03,
+          "dietaryFiber": 3.5,
+          "saturatedFat": 1.06,
+          "sodium": 1428.11,
+          "addedSugar": 12.35
+        }
+      ],
+      "total_nutrition": {
+        "protein": 7.5,
+        "dietaryFiber": 0.99,
+        "saturatedFat": 3.66,
+        "sodium": 1127.64,
+        "addedSugar": 1.59
+      },
+      "popularity_score": 7.8,
+      "consumption_frequency": 0.159
+    },
+    {
+      "name": "馒头",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 85,
+          "protein": 12.76,
+          "dietaryFiber": 1.82,
+          "saturatedFat": 8.12,
+          "sodium": 1297.03,
+          "addedSugar": 17.82
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.16,
+        "dietaryFiber": 4.45,
+        "saturatedFat": 8.81,
+        "sodium": 648.7,
+        "addedSugar": 9.57
+      },
+      "popularity_score": 5.0,
+      "consumption_frequency": 0.193
+    },
+    {
+      "name": "包子",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 160,
+          "protein": 20.78,
+          "dietaryFiber": 3.18,
+          "saturatedFat": 5.42,
+          "sodium": 216.28,
+          "addedSugar": 9.37
+        }
+      ],
+      "total_nutrition": {
+        "protein": 24.74,
+        "dietaryFiber": 0.88,
+        "saturatedFat": 9.97,
+        "sodium": 1456.38,
+        "addedSugar": 17.68
+      },
+      "popularity_score": 8.5,
+      "consumption_frequency": 0.225
+    },
+    {
+      "name": "炒米粉",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 105,
+          "protein": 6.12,
+          "dietaryFiber": 1.83,
+          "saturatedFat": 6.79,
+          "sodium": 242.74,
+          "addedSugar": 18.39
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.19,
+        "dietaryFiber": 4.86,
+        "saturatedFat": 5.36,
+        "sodium": 717.96,
+        "addedSugar": 15.92
+      },
+      "popularity_score": 8.3,
+      "consumption_frequency": 0.323
+    },
+    {
+      "name": "炒方便面",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 192,
+          "protein": 24.25,
+          "dietaryFiber": 2.03,
+          "saturatedFat": 0.88,
+          "sodium": 350.29,
+          "addedSugar": 10.54
+        }
+      ],
+      "total_nutrition": {
+        "protein": 20.72,
+        "dietaryFiber": 4.26,
+        "saturatedFat": 6.78,
+        "sodium": 786.76,
+        "addedSugar": 3.36
+      },
+      "popularity_score": 6.0,
+      "consumption_frequency": 0.243
+    },
+    {
+      "name": "米线",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 175,
+          "protein": 4.17,
+          "dietaryFiber": 4.29,
+          "saturatedFat": 8.49,
+          "sodium": 1284.37,
+          "addedSugar": 11.5
+        }
+      ],
+      "total_nutrition": {
+        "protein": 11.59,
+        "dietaryFiber": 2.86,
+        "saturatedFat": 9.92,
+        "sodium": 150.96,
+        "addedSugar": 4.03
+      },
+      "popularity_score": 9.3,
+      "consumption_frequency": 0.155
+    },
+    {
+      "name": "手抓饼",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 162,
+          "protein": 6.74,
+          "dietaryFiber": 0.26,
+          "saturatedFat": 5.43,
+          "sodium": 438.45,
+          "addedSugar": 2.79
+        }
+      ],
+      "total_nutrition": {
+        "protein": 23.45,
+        "dietaryFiber": 2.2,
+        "saturatedFat": 2.76,
+        "sodium": 1076.11,
+        "addedSugar": 4.87
+      },
+      "popularity_score": 7.8,
+      "consumption_frequency": 0.329
+    },
+    {
+      "name": "麻辣香锅饭",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 83,
+          "protein": 19.92,
+          "dietaryFiber": 3.12,
+          "saturatedFat": 2.14,
+          "sodium": 906.86,
+          "addedSugar": 12.85
+        }
+      ],
+      "total_nutrition": {
+        "protein": 4.03,
+        "dietaryFiber": 0.23,
+        "saturatedFat": 9.17,
+        "sodium": 613.11,
+        "addedSugar": 14.15
+      },
+      "popularity_score": 5.4,
+      "consumption_frequency": 0.341
+    },
+    {
+      "name": "麻婆豆腐盖饭",
+      "category": "主食类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 160,
+          "protein": 22.49,
+          "dietaryFiber": 3.86,
+          "saturatedFat": 5.3,
+          "sodium": 786.42,
+          "addedSugar": 17.94
+        }
+      ],
+      "total_nutrition": {
+        "protein": 24.29,
+        "dietaryFiber": 0.24,
+        "saturatedFat": 2.96,
+        "sodium": 69.29,
+        "addedSugar": 9.67
+      },
+      "popularity_score": 6.8,
+      "consumption_frequency": 0.237
+    },
+    {
+      "name": "糖醋里脊",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 140,
+          "protein": 4.03,
+          "dietaryFiber": 1.11,
+          "saturatedFat": 6.64,
+          "sodium": 717.75,
+          "addedSugar": 11.25
+        }
+      ],
+      "total_nutrition": {
+        "protein": 6.42,
+        "dietaryFiber": 3.98,
+        "saturatedFat": 1.49,
+        "sodium": 996.53,
+        "addedSugar": 8.75
+      },
+      "popularity_score": 9.4,
+      "consumption_frequency": 0.333
+    },
+    {
+      "name": "回锅肉",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 80,
+          "protein": 20.27,
+          "dietaryFiber": 1.11,
+          "saturatedFat": 1.69,
+          "sodium": 680.66,
+          "addedSugar": 6.27
+        }
+      ],
+      "total_nutrition": {
+        "protein": 23.6,
+        "dietaryFiber": 3.87,
+        "saturatedFat": 0.97,
+        "sodium": 1385.34,
+        "addedSugar": 9.19
+      },
+      "popularity_score": 9.7,
+      "consumption_frequency": 0.344
+    },
+    {
+      "name": "梅菜扣肉",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 117,
+          "protein": 23.86,
+          "dietaryFiber": 0.82,
+          "saturatedFat": 9.65,
+          "sodium": 748.23,
+          "addedSugar": 16.32
+        }
+      ],
+      "total_nutrition": {
+        "protein": 16.67,
+        "dietaryFiber": 3.77,
+        "saturatedFat": 3.18,
+        "sodium": 1236.63,
+        "addedSugar": 4.13
+      },
+      "popularity_score": 8.9,
+      "consumption_frequency": 0.279
+    },
+    {
+      "name": "蒜苔炒肉",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 150,
+          "protein": 24.67,
+          "dietaryFiber": 1.37,
+          "saturatedFat": 7.76,
+          "sodium": 237.55,
+          "addedSugar": 11.38
+        }
+      ],
+      "total_nutrition": {
+        "protein": 8.09,
+        "dietaryFiber": 2.07,
+        "saturatedFat": 7.57,
+        "sodium": 371.87,
+        "addedSugar": 0.04
+      },
+      "popularity_score": 8.4,
+      "consumption_frequency": 0.054
+    },
+    {
+      "name": "木耳炒肉",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 126,
+          "protein": 13.9,
+          "dietaryFiber": 0.52,
+          "saturatedFat": 9.97,
+          "sodium": 1375.56,
+          "addedSugar": 18.57
+        }
+      ],
+      "total_nutrition": {
+        "protein": 24.83,
+        "dietaryFiber": 3.9,
+        "saturatedFat": 5.07,
+        "sodium": 979.95,
+        "addedSugar": 18.7
+      },
+      "popularity_score": 7.5,
+      "consumption_frequency": 0.086
+    },
+    {
+      "name": "尖椒肉丝",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 82,
+          "protein": 17.65,
+          "dietaryFiber": 0.85,
+          "saturatedFat": 9.09,
+          "sodium": 1263.9,
+          "addedSugar": 19.67
+        }
+      ],
+      "total_nutrition": {
+        "protein": 21.98,
+        "dietaryFiber": 3.14,
+        "saturatedFat": 4.93,
+        "sodium": 708.45,
+        "addedSugar": 10.27
+      },
+      "popularity_score": 8.3,
+      "consumption_frequency": 0.052
+    },
+    {
+      "name": "土豆烧肉",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 85,
+          "protein": 12.81,
+          "dietaryFiber": 2.59,
+          "saturatedFat": 5.75,
+          "sodium": 555.5,
+          "addedSugar": 10.91
+        }
+      ],
+      "total_nutrition": {
+        "protein": 8.17,
+        "dietaryFiber": 2.27,
+        "saturatedFat": 3.99,
+        "sodium": 886.06,
+        "addedSugar": 7.47
+      },
+      "popularity_score": 8.5,
+      "consumption_frequency": 0.089
+    },
+    {
+      "name": "香干炒肉",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 187,
+          "protein": 11.3,
+          "dietaryFiber": 0.72,
+          "saturatedFat": 3.03,
+          "sodium": 1494.18,
+          "addedSugar": 12.26
+        }
+      ],
+      "total_nutrition": {
+        "protein": 23.9,
+        "dietaryFiber": 3.99,
+        "saturatedFat": 2.92,
+        "sodium": 1316.43,
+        "addedSugar": 17.38
+      },
+      "popularity_score": 9.5,
+      "consumption_frequency": 0.264
+    },
+    {
+      "name": "红烧排骨",
+      "category": "猪肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 123,
+          "protein": 15.28,
+          "dietaryFiber": 3.33,
+          "saturatedFat": 4.53,
+          "sodium": 956.96,
+          "addedSugar": 0.22
+        }
+      ],
+      "total_nutrition": {
+        "protein": 18.94,
+        "dietaryFiber": 1.98,
+        "saturatedFat": 5.69,
+        "sodium": 1458.16,
+        "addedSugar": 6.04
+      },
+      "popularity_score": 6.8,
+      "consumption_frequency": 0.092
+    },
+    {
+      "name": "香辣鸡腿",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 195,
+          "protein": 11.25,
+          "dietaryFiber": 0.04,
+          "saturatedFat": 6.75,
+          "sodium": 353.32,
+          "addedSugar": 16.8
+        }
+      ],
+      "total_nutrition": {
+        "protein": 5.65,
+        "dietaryFiber": 2.88,
+        "saturatedFat": 6.86,
+        "sodium": 635.49,
+        "addedSugar": 1.57
+      },
+      "popularity_score": 7.8,
+      "consumption_frequency": 0.314
+    },
+    {
+      "name": "黑椒鸡块",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 186,
+          "protein": 17.38,
+          "dietaryFiber": 3.8,
+          "saturatedFat": 3.08,
+          "sodium": 25.3,
+          "addedSugar": 3.44
+        }
+      ],
+      "total_nutrition": {
+        "protein": 12.54,
+        "dietaryFiber": 1.03,
+        "saturatedFat": 7.43,
+        "sodium": 1377.68,
+        "addedSugar": 0.95
+      },
+      "popularity_score": 9.7,
+      "consumption_frequency": 0.27
+    },
+    {
+      "name": "孜然鸡丁",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 131,
+          "protein": 4.36,
+          "dietaryFiber": 1.71,
+          "saturatedFat": 4.43,
+          "sodium": 42.08,
+          "addedSugar": 5.91
+        }
+      ],
+      "total_nutrition": {
+        "protein": 18.75,
+        "dietaryFiber": 0.22,
+        "saturatedFat": 8.18,
+        "sodium": 785.07,
+        "addedSugar": 11.11
+      },
+      "popularity_score": 7.8,
+      "consumption_frequency": 0.138
+    },
+    {
+      "name": "酱香鸡翅",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 98,
+          "protein": 11.42,
+          "dietaryFiber": 4.26,
+          "saturatedFat": 9.94,
+          "sodium": 1227.03,
+          "addedSugar": 13.52
+        }
+      ],
+      "total_nutrition": {
+        "protein": 16.9,
+        "dietaryFiber": 0.96,
+        "saturatedFat": 0.78,
+        "sodium": 156.07,
+        "addedSugar": 4.37
+      },
+      "popularity_score": 5.4,
+      "consumption_frequency": 0.221
+    },
+    {
+      "name": "三杯鸡",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 188,
+          "protein": 18.21,
+          "dietaryFiber": 2.2,
+          "saturatedFat": 7.03,
+          "sodium": 104.46,
+          "addedSugar": 10.58
+        }
+      ],
+      "total_nutrition": {
+        "protein": 11.64,
+        "dietaryFiber": 3.45,
+        "saturatedFat": 4.64,
+        "sodium": 701.94,
+        "addedSugar": 2.06
+      },
+      "popularity_score": 6.0,
+      "consumption_frequency": 0.066
+    },
+    {
+      "name": "咖喱鸡",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 134,
+          "protein": 15.86,
+          "dietaryFiber": 3.03,
+          "saturatedFat": 9.72,
+          "sodium": 1254.78,
+          "addedSugar": 12.99
+        }
+      ],
+      "total_nutrition": {
+        "protein": 12.6,
+        "dietaryFiber": 0.32,
+        "saturatedFat": 4.71,
+        "sodium": 1051.45,
+        "addedSugar": 1.64
+      },
+      "popularity_score": 8.6,
+      "consumption_frequency": 0.335
+    },
+    {
+      "name": "蒜香鸡柳",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 105,
+          "protein": 5.99,
+          "dietaryFiber": 2.63,
+          "saturatedFat": 5.73,
+          "sodium": 992.79,
+          "addedSugar": 19.25
+        }
+      ],
+      "total_nutrition": {
+        "protein": 18.26,
+        "dietaryFiber": 3.86,
+        "saturatedFat": 7.0,
+        "sodium": 241.62,
+        "addedSugar": 5.57
+      },
+      "popularity_score": 9.0,
+      "consumption_frequency": 0.285
+    },
+    {
+      "name": "鸡腿饭",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 174,
+          "protein": 11.69,
+          "dietaryFiber": 2.09,
+          "saturatedFat": 8.55,
+          "sodium": 943.05,
+          "addedSugar": 10.25
+        }
+      ],
+      "total_nutrition": {
+        "protein": 19.1,
+        "dietaryFiber": 2.91,
+        "saturatedFat": 2.96,
+        "sodium": 837.74,
+        "addedSugar": 17.58
+      },
+      "popularity_score": 8.1,
+      "consumption_frequency": 0.308
+    },
+    {
+      "name": "椒麻鸡",
+      "category": "鸡肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 135,
+          "protein": 21.19,
+          "dietaryFiber": 4.95,
+          "saturatedFat": 2.14,
+          "sodium": 1065.77,
+          "addedSugar": 14.8
+        }
+      ],
+      "total_nutrition": {
+        "protein": 8.49,
+        "dietaryFiber": 3.13,
+        "saturatedFat": 8.8,
+        "sodium": 160.4,
+        "addedSugar": 13.88
+      },
+      "popularity_score": 9.6,
+      "consumption_frequency": 0.329
+    },
+    {
+      "name": "孜然牛肉",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 173,
+          "protein": 16.44,
+          "dietaryFiber": 0.85,
+          "saturatedFat": 6.55,
+          "sodium": 83.08,
+          "addedSugar": 13.19
+        }
+      ],
+      "total_nutrition": {
+        "protein": 6.32,
+        "dietaryFiber": 1.5,
+        "saturatedFat": 3.73,
+        "sodium": 1128.47,
+        "addedSugar": 3.9
+      },
+      "popularity_score": 6.3,
+      "consumption_frequency": 0.349
+    },
+    {
+      "name": "黑椒牛柳",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 174,
+          "protein": 14.35,
+          "dietaryFiber": 3.89,
+          "saturatedFat": 1.92,
+          "sodium": 741.81,
+          "addedSugar": 14.42
+        }
+      ],
+      "total_nutrition": {
+        "protein": 7.03,
+        "dietaryFiber": 2.33,
+        "saturatedFat": 4.0,
+        "sodium": 539.03,
+        "addedSugar": 10.82
+      },
+      "popularity_score": 8.6,
+      "consumption_frequency": 0.091
+    },
+    {
+      "name": "番茄炖牛腩",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 169,
+          "protein": 17.48,
+          "dietaryFiber": 0.17,
+          "saturatedFat": 9.85,
+          "sodium": 392.52,
+          "addedSugar": 11.77
+        }
+      ],
+      "total_nutrition": {
+        "protein": 22.92,
+        "dietaryFiber": 3.69,
+        "saturatedFat": 5.78,
+        "sodium": 1102.34,
+        "addedSugar": 1.43
+      },
+      "popularity_score": 7.1,
+      "consumption_frequency": 0.237
+    },
+    {
+      "name": "洋葱炒牛肉",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 98,
+          "protein": 20.06,
+          "dietaryFiber": 2.91,
+          "saturatedFat": 5.28,
+          "sodium": 478.25,
+          "addedSugar": 14.93
+        }
+      ],
+      "total_nutrition": {
+        "protein": 17.2,
+        "dietaryFiber": 1.81,
+        "saturatedFat": 8.19,
+        "sodium": 708.97,
+        "addedSugar": 16.31
+      },
+      "popularity_score": 8.8,
+      "consumption_frequency": 0.106
+    },
+    {
+      "name": "土豆炖牛肉",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 179,
+          "protein": 21.49,
+          "dietaryFiber": 0.55,
+          "saturatedFat": 6.17,
+          "sodium": 513.59,
+          "addedSugar": 7.69
+        }
+      ],
+      "total_nutrition": {
+        "protein": 14.26,
+        "dietaryFiber": 3.46,
+        "saturatedFat": 0.78,
+        "sodium": 231.82,
+        "addedSugar": 4.61
+      },
+      "popularity_score": 7.6,
+      "consumption_frequency": 0.224
+    },
+    {
+      "name": "青椒牛肉",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 187,
+          "protein": 18.67,
+          "dietaryFiber": 2.37,
+          "saturatedFat": 2.04,
+          "sodium": 91.63,
+          "addedSugar": 9.02
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.05,
+        "dietaryFiber": 3.46,
+        "saturatedFat": 4.45,
+        "sodium": 259.37,
+        "addedSugar": 2.64
+      },
+      "popularity_score": 8.9,
+      "consumption_frequency": 0.131
+    },
+    {
+      "name": "牛肉盖饭",
+      "category": "牛肉类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 100,
+          "protein": 16.95,
+          "dietaryFiber": 0.86,
+          "saturatedFat": 5.7,
+          "sodium": 590.98,
+          "addedSugar": 16.54
+        }
+      ],
+      "total_nutrition": {
+        "protein": 4.61,
+        "dietaryFiber": 0.6,
+        "saturatedFat": 1.66,
+        "sodium": 864.7,
+        "addedSugar": 18.04
+      },
+      "popularity_score": 7.5,
+      "consumption_frequency": 0.293
+    },
+    {
+      "name": "红烧鱼块",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 178,
+          "protein": 6.29,
+          "dietaryFiber": 0.99,
+          "saturatedFat": 7.21,
+          "sodium": 280.18,
+          "addedSugar": 19.56
+        }
+      ],
+      "total_nutrition": {
+        "protein": 12.22,
+        "dietaryFiber": 0.81,
+        "saturatedFat": 8.08,
+        "sodium": 1372.5,
+        "addedSugar": 19.76
+      },
+      "popularity_score": 5.3,
+      "consumption_frequency": 0.117
+    },
+    {
+      "name": "清蒸鲈鱼",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 187,
+          "protein": 11.67,
+          "dietaryFiber": 2.61,
+          "saturatedFat": 2.66,
+          "sodium": 387.8,
+          "addedSugar": 18.1
+        }
+      ],
+      "total_nutrition": {
+        "protein": 16.06,
+        "dietaryFiber": 3.3,
+        "saturatedFat": 1.03,
+        "sodium": 455.76,
+        "addedSugar": 7.08
+      },
+      "popularity_score": 7.6,
+      "consumption_frequency": 0.052
+    },
+    {
+      "name": "酸菜鱼片",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 160,
+          "protein": 16.94,
+          "dietaryFiber": 4.23,
+          "saturatedFat": 3.98,
+          "sodium": 960.61,
+          "addedSugar": 9.38
+        }
+      ],
+      "total_nutrition": {
+        "protein": 14.94,
+        "dietaryFiber": 1.15,
+        "saturatedFat": 9.45,
+        "sodium": 1475.55,
+        "addedSugar": 9.8
+      },
+      "popularity_score": 8.1,
+      "consumption_frequency": 0.256
+    },
+    {
+      "name": "糖醋鲤鱼",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 86,
+          "protein": 11.57,
+          "dietaryFiber": 4.19,
+          "saturatedFat": 3.34,
+          "sodium": 1449.06,
+          "addedSugar": 0.69
+        }
+      ],
+      "total_nutrition": {
+        "protein": 15.95,
+        "dietaryFiber": 3.02,
+        "saturatedFat": 9.23,
+        "sodium": 1427.82,
+        "addedSugar": 19.07
+      },
+      "popularity_score": 5.8,
+      "consumption_frequency": 0.165
+    },
+    {
+      "name": "干煎带鱼",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 186,
+          "protein": 22.64,
+          "dietaryFiber": 0.33,
+          "saturatedFat": 5.08,
+          "sodium": 910.88,
+          "addedSugar": 12.02
+        }
+      ],
+      "total_nutrition": {
+        "protein": 23.55,
+        "dietaryFiber": 3.61,
+        "saturatedFat": 9.83,
+        "sodium": 663.7,
+        "addedSugar": 13.18
+      },
+      "popularity_score": 8.3,
+      "consumption_frequency": 0.132
+    },
+    {
+      "name": "虾仁炒蛋",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 140,
+          "protein": 16.31,
+          "dietaryFiber": 4.61,
+          "saturatedFat": 9.4,
+          "sodium": 1403.67,
+          "addedSugar": 3.28
+        }
+      ],
+      "total_nutrition": {
+        "protein": 20.16,
+        "dietaryFiber": 1.15,
+        "saturatedFat": 6.23,
+        "sodium": 1192.83,
+        "addedSugar": 14.82
+      },
+      "popularity_score": 9.2,
+      "consumption_frequency": 0.084
+    },
+    {
+      "name": "椒盐虾",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 150,
+          "protein": 13.48,
+          "dietaryFiber": 3.61,
+          "saturatedFat": 8.46,
+          "sodium": 325.95,
+          "addedSugar": 13.12
+        }
+      ],
+      "total_nutrition": {
+        "protein": 22.36,
+        "dietaryFiber": 3.87,
+        "saturatedFat": 5.32,
+        "sodium": 104.95,
+        "addedSugar": 4.76
+      },
+      "popularity_score": 7.7,
+      "consumption_frequency": 0.105
+    },
+    {
+      "name": "鱼香茄子（含鱼）",
+      "category": "水产类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 147,
+          "protein": 13.78,
+          "dietaryFiber": 0.98,
+          "saturatedFat": 5.9,
+          "sodium": 856.93,
+          "addedSugar": 6.25
+        }
+      ],
+      "total_nutrition": {
+        "protein": 3.22,
+        "dietaryFiber": 2.6,
+        "saturatedFat": 4.16,
+        "sodium": 735.65,
+        "addedSugar": 7.89
+      },
+      "popularity_score": 5.4,
+      "consumption_frequency": 0.147
+    },
+    {
+      "name": "炒豆芽",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 199,
+          "protein": 24.15,
+          "dietaryFiber": 1.0,
+          "saturatedFat": 5.21,
+          "sodium": 358.67,
+          "addedSugar": 14.48
+        }
+      ],
+      "total_nutrition": {
+        "protein": 7.58,
+        "dietaryFiber": 2.24,
+        "saturatedFat": 9.3,
+        "sodium": 206.42,
+        "addedSugar": 9.37
+      },
+      "popularity_score": 8.7,
+      "consumption_frequency": 0.059
+    },
+    {
+      "name": "炒青菜",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 143,
+          "protein": 6.67,
+          "dietaryFiber": 0.75,
+          "saturatedFat": 0.53,
+          "sodium": 867.53,
+          "addedSugar": 13.6
+        }
+      ],
+      "total_nutrition": {
+        "protein": 17.51,
+        "dietaryFiber": 2.34,
+        "saturatedFat": 3.92,
+        "sodium": 100.51,
+        "addedSugar": 5.11
+      },
+      "popularity_score": 7.8,
+      "consumption_frequency": 0.107
+    },
+    {
+      "name": "蒜蓉空心菜",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 179,
+          "protein": 14.13,
+          "dietaryFiber": 1.58,
+          "saturatedFat": 1.44,
+          "sodium": 1204.21,
+          "addedSugar": 1.46
+        }
+      ],
+      "total_nutrition": {
+        "protein": 13.95,
+        "dietaryFiber": 3.09,
+        "saturatedFat": 8.78,
+        "sodium": 532.79,
+        "addedSugar": 10.72
+      },
+      "popularity_score": 7.3,
+      "consumption_frequency": 0.135
+    },
+    {
+      "name": "茄子豆角",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 153,
+          "protein": 3.5,
+          "dietaryFiber": 1.7,
+          "saturatedFat": 8.74,
+          "sodium": 166.05,
+          "addedSugar": 11.38
+        }
+      ],
+      "total_nutrition": {
+        "protein": 17.71,
+        "dietaryFiber": 4.36,
+        "saturatedFat": 2.37,
+        "sodium": 644.84,
+        "addedSugar": 3.87
+      },
+      "popularity_score": 5.4,
+      "consumption_frequency": 0.248
+    },
+    {
+      "name": "凉拌黄瓜",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 163,
+          "protein": 23.82,
+          "dietaryFiber": 1.85,
+          "saturatedFat": 7.41,
+          "sodium": 1457.55,
+          "addedSugar": 14.28
+        }
+      ],
+      "total_nutrition": {
+        "protein": 24.0,
+        "dietaryFiber": 3.43,
+        "saturatedFat": 7.33,
+        "sodium": 931.58,
+        "addedSugar": 19.21
+      },
+      "popularity_score": 9.1,
+      "consumption_frequency": 0.082
+    },
+    {
+      "name": "炒油麦菜",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 119,
+          "protein": 9.57,
+          "dietaryFiber": 4.48,
+          "saturatedFat": 5.05,
+          "sodium": 1058.43,
+          "addedSugar": 10.09
+        }
+      ],
+      "total_nutrition": {
+        "protein": 8.1,
+        "dietaryFiber": 0.4,
+        "saturatedFat": 3.22,
+        "sodium": 1193.63,
+        "addedSugar": 10.08
+      },
+      "popularity_score": 9.1,
+      "consumption_frequency": 0.304
+    },
+    {
+      "name": "炒卷心菜",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 111,
+          "protein": 5.59,
+          "dietaryFiber": 3.29,
+          "saturatedFat": 9.15,
+          "sodium": 1267.63,
+          "addedSugar": 15.1
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.23,
+        "dietaryFiber": 2.81,
+        "saturatedFat": 5.77,
+        "sodium": 1092.31,
+        "addedSugar": 3.15
+      },
+      "popularity_score": 6.6,
+      "consumption_frequency": 0.052
+    },
+    {
+      "name": "炒南瓜",
+      "category": "蔬菜类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 84,
+          "protein": 11.18,
+          "dietaryFiber": 2.46,
+          "saturatedFat": 2.22,
+          "sodium": 830.88,
+          "addedSugar": 2.71
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.25,
+        "dietaryFiber": 2.29,
+        "saturatedFat": 7.08,
+        "sodium": 1111.1,
+        "addedSugar": 5.82
+      },
+      "popularity_score": 9.5,
+      "consumption_frequency": 0.205
+    },
+    {
+      "name": "家常豆腐",
+      "category": "豆制品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 141,
+          "protein": 19.73,
+          "dietaryFiber": 0.19,
+          "saturatedFat": 6.34,
+          "sodium": 473.92,
+          "addedSugar": 4.68
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.35,
+        "dietaryFiber": 1.7,
+        "saturatedFat": 2.62,
+        "sodium": 95.7,
+        "addedSugar": 17.27
+      },
+      "popularity_score": 9.3,
+      "consumption_frequency": 0.235
+    },
+    {
+      "name": "香干回锅肉",
+      "category": "豆制品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 85,
+          "protein": 12.93,
+          "dietaryFiber": 4.61,
+          "saturatedFat": 4.76,
+          "sodium": 1426.75,
+          "addedSugar": 10.58
+        }
+      ],
+      "total_nutrition": {
+        "protein": 11.1,
+        "dietaryFiber": 1.02,
+        "saturatedFat": 3.05,
+        "sodium": 1027.4,
+        "addedSugar": 1.74
+      },
+      "popularity_score": 7.2,
+      "consumption_frequency": 0.257
+    },
+    {
+      "name": "红烧豆腐",
+      "category": "豆制品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 82,
+          "protein": 16.02,
+          "dietaryFiber": 3.7,
+          "saturatedFat": 1.13,
+          "sodium": 1135.35,
+          "addedSugar": 9.84
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.52,
+        "dietaryFiber": 2.43,
+        "saturatedFat": 7.12,
+        "sodium": 428.05,
+        "addedSugar": 15.08
+      },
+      "popularity_score": 8.9,
+      "consumption_frequency": 0.106
+    },
+    {
+      "name": "凉拌豆腐皮",
+      "category": "豆制品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 168,
+          "protein": 7.04,
+          "dietaryFiber": 0.86,
+          "saturatedFat": 5.54,
+          "sodium": 1296.24,
+          "addedSugar": 4.93
+        }
+      ],
+      "total_nutrition": {
+        "protein": 17.91,
+        "dietaryFiber": 0.1,
+        "saturatedFat": 5.71,
+        "sodium": 889.7,
+        "addedSugar": 19.07
+      },
+      "popularity_score": 6.4,
+      "consumption_frequency": 0.342
+    },
+    {
+      "name": "豆腐丸子",
+      "category": "豆制品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 106,
+          "protein": 10.54,
+          "dietaryFiber": 1.66,
+          "saturatedFat": 3.19,
+          "sodium": 1350.13,
+          "addedSugar": 7.12
+        }
+      ],
+      "total_nutrition": {
+        "protein": 15.32,
+        "dietaryFiber": 1.45,
+        "saturatedFat": 4.69,
+        "sodium": 704.28,
+        "addedSugar": 7.12
+      },
+      "popularity_score": 7.1,
+      "consumption_frequency": 0.262
+    },
+    {
+      "name": "炸豆腐",
+      "category": "豆制品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 94,
+          "protein": 24.46,
+          "dietaryFiber": 2.04,
+          "saturatedFat": 0.61,
+          "sodium": 144.96,
+          "addedSugar": 11.25
+        }
+      ],
+      "total_nutrition": {
+        "protein": 10.66,
+        "dietaryFiber": 1.99,
+        "saturatedFat": 3.31,
+        "sodium": 610.41,
+        "addedSugar": 14.71
+      },
+      "popularity_score": 8.4,
+      "consumption_frequency": 0.281
+    },
+    {
+      "name": "番茄蛋汤",
+      "category": "汤品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 171,
+          "protein": 3.67,
+          "dietaryFiber": 4.63,
+          "saturatedFat": 7.46,
+          "sodium": 824.47,
+          "addedSugar": 15.33
+        }
+      ],
+      "total_nutrition": {
+        "protein": 16.43,
+        "dietaryFiber": 3.8,
+        "saturatedFat": 6.8,
+        "sodium": 773.68,
+        "addedSugar": 3.87
+      },
+      "popularity_score": 9.4,
+      "consumption_frequency": 0.201
+    },
+    {
+      "name": "冬瓜排骨汤",
+      "category": "汤品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 116,
+          "protein": 17.67,
+          "dietaryFiber": 1.5,
+          "saturatedFat": 6.32,
+          "sodium": 1006.84,
+          "addedSugar": 17.13
+        }
+      ],
+      "total_nutrition": {
+        "protein": 7.75,
+        "dietaryFiber": 2.16,
+        "saturatedFat": 8.23,
+        "sodium": 84.79,
+        "addedSugar": 0.44
+      },
+      "popularity_score": 6.7,
+      "consumption_frequency": 0.18
+    },
+    {
+      "name": "玉米排骨汤",
+      "category": "汤品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 159,
+          "protein": 9.85,
+          "dietaryFiber": 0.07,
+          "saturatedFat": 7.98,
+          "sodium": 1048.66,
+          "addedSugar": 2.01
+        }
+      ],
+      "total_nutrition": {
+        "protein": 12.38,
+        "dietaryFiber": 0.5,
+        "saturatedFat": 5.61,
+        "sodium": 109.85,
+        "addedSugar": 13.94
+      },
+      "popularity_score": 9.2,
+      "consumption_frequency": 0.181
+    },
+    {
+      "name": "海带汤",
+      "category": "汤品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 189,
+          "protein": 13.39,
+          "dietaryFiber": 2.13,
+          "saturatedFat": 0.6,
+          "sodium": 104.71,
+          "addedSugar": 1.44
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.22,
+        "dietaryFiber": 4.28,
+        "saturatedFat": 4.61,
+        "sodium": 109.65,
+        "addedSugar": 12.32
+      },
+      "popularity_score": 5.6,
+      "consumption_frequency": 0.211
+    },
+    {
+      "name": "西湖牛肉羹",
+      "category": "汤品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 174,
+          "protein": 13.67,
+          "dietaryFiber": 4.2,
+          "saturatedFat": 1.78,
+          "sodium": 1322.64,
+          "addedSugar": 16.17
+        }
+      ],
+      "total_nutrition": {
+        "protein": 4.72,
+        "dietaryFiber": 2.34,
+        "saturatedFat": 3.77,
+        "sodium": 1086.99,
+        "addedSugar": 10.28
+      },
+      "popularity_score": 9.8,
+      "consumption_frequency": 0.081
+    },
+    {
+      "name": "鸡蛋汤",
+      "category": "汤品类",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 134,
+          "protein": 6.51,
+          "dietaryFiber": 2.41,
+          "saturatedFat": 4.06,
+          "sodium": 1015.49,
+          "addedSugar": 4.48
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.47,
+        "dietaryFiber": 1.41,
+        "saturatedFat": 3.62,
+        "sodium": 80.64,
+        "addedSugar": 15.08
+      },
+      "popularity_score": 8.3,
+      "consumption_frequency": 0.123
+    },
+    {
+      "name": "豆浆",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 169,
+          "protein": 4.98,
+          "dietaryFiber": 3.19,
+          "saturatedFat": 1.22,
+          "sodium": 1231.17,
+          "addedSugar": 12.76
+        }
+      ],
+      "total_nutrition": {
+        "protein": 21.89,
+        "dietaryFiber": 0.14,
+        "saturatedFat": 0.31,
+        "sodium": 38.42,
+        "addedSugar": 24.0
+      },
+      "popularity_score": 9.5,
+      "consumption_frequency": 0.227
+    },
+    {
+      "name": "奶茶",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 171,
+          "protein": 8.67,
+          "dietaryFiber": 1.19,
+          "saturatedFat": 4.78,
+          "sodium": 1194.68,
+          "addedSugar": 8.94
+        }
+      ],
+      "total_nutrition": {
+        "protein": 5.03,
+        "dietaryFiber": 2.41,
+        "saturatedFat": 5.45,
+        "sodium": 709.13,
+        "addedSugar": 16.37
+      },
+      "popularity_score": 7.0,
+      "consumption_frequency": 0.129
+    },
+    {
+      "name": "绿豆汤",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 195,
+          "protein": 17.83,
+          "dietaryFiber": 4.2,
+          "saturatedFat": 1.43,
+          "sodium": 553.83,
+          "addedSugar": 9.97
+        }
+      ],
+      "total_nutrition": {
+        "protein": 6.06,
+        "dietaryFiber": 0.2,
+        "saturatedFat": 2.31,
+        "sodium": 955.83,
+        "addedSugar": 20.08
+      },
+      "popularity_score": 7.1,
+      "consumption_frequency": 0.222
+    },
+    {
+      "name": "酸奶",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 104,
+          "protein": 17.93,
+          "dietaryFiber": 2.08,
+          "saturatedFat": 5.84,
+          "sodium": 396.89,
+          "addedSugar": 7.1
+        }
+      ],
+      "total_nutrition": {
+        "protein": 13.22,
+        "dietaryFiber": 1.79,
+        "saturatedFat": 8.45,
+        "sodium": 757.49,
+        "addedSugar": 39.57
+      },
+      "popularity_score": 9.3,
+      "consumption_frequency": 0.176
+    },
+    {
+      "name": "橙汁",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 186,
+          "protein": 10.67,
+          "dietaryFiber": 0.96,
+          "saturatedFat": 6.59,
+          "sodium": 1416.0,
+          "addedSugar": 14.1
+        }
+      ],
+      "total_nutrition": {
+        "protein": 9.7,
+        "dietaryFiber": 3.04,
+        "saturatedFat": 1.18,
+        "sodium": 976.52,
+        "addedSugar": 13.02
+      },
+      "popularity_score": 7.7,
+      "consumption_frequency": 0.109
+    },
+    {
+      "name": "冰红茶",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 112,
+          "protein": 15.0,
+          "dietaryFiber": 2.42,
+          "saturatedFat": 1.07,
+          "sodium": 1406.17,
+          "addedSugar": 6.03
+        }
+      ],
+      "total_nutrition": {
+        "protein": 5.64,
+        "dietaryFiber": 1.2,
+        "saturatedFat": 9.35,
+        "sodium": 258.58,
+        "addedSugar": 4.42
+      },
+      "popularity_score": 6.0,
+      "consumption_frequency": 0.231
+    },
+    {
+      "name": "柠檬水",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 143,
+          "protein": 13.43,
+          "dietaryFiber": 4.58,
+          "saturatedFat": 3.61,
+          "sodium": 264.29,
+          "addedSugar": 4.08
+        }
+      ],
+      "total_nutrition": {
+        "protein": 6.15,
+        "dietaryFiber": 3.74,
+        "saturatedFat": 4.51,
+        "sodium": 161.89,
+        "addedSugar": 35.01
+      },
+      "popularity_score": 5.1,
+      "consumption_frequency": 0.309
+    },
+    {
+      "name": "红枣枸杞茶",
+      "category": "饮品",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 171,
+          "protein": 20.88,
+          "dietaryFiber": 3.44,
+          "saturatedFat": 6.56,
+          "sodium": 159.0,
+          "addedSugar": 20.51
+        }
+      ],
+      "total_nutrition": {
+        "protein": 5.58,
+        "dietaryFiber": 2.4,
+        "saturatedFat": 6.95,
+        "sodium": 568.06,
+        "addedSugar": 1.9
+      },
+      "popularity_score": 7.7,
+      "consumption_frequency": 0.107
+    },
+    {
+      "name": "炸鸡排",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 184,
+          "protein": 7.28,
+          "dietaryFiber": 4.91,
+          "saturatedFat": 8.12,
+          "sodium": 200.04,
+          "addedSugar": 11.37
+        }
+      ],
+      "total_nutrition": {
+        "protein": 10.69,
+        "dietaryFiber": 4.09,
+        "saturatedFat": 9.57,
+        "sodium": 887.71,
+        "addedSugar": 16.21
+      },
+      "popularity_score": 6.7,
+      "consumption_frequency": 0.11
+    },
+    {
+      "name": "炸串",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 173,
+          "protein": 24.52,
+          "dietaryFiber": 2.74,
+          "saturatedFat": 5.7,
+          "sodium": 261.63,
+          "addedSugar": 25.4
+        }
+      ],
+      "total_nutrition": {
+        "protein": 13.05,
+        "dietaryFiber": 2.64,
+        "saturatedFat": 9.27,
+        "sodium": 726.19,
+        "addedSugar": 7.73
+      },
+      "popularity_score": 7.7,
+      "consumption_frequency": 0.243
+    },
+    {
+      "name": "鸡米花",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 157,
+          "protein": 13.8,
+          "dietaryFiber": 1.74,
+          "saturatedFat": 3.45,
+          "sodium": 461.34,
+          "addedSugar": 31.31
+        }
+      ],
+      "total_nutrition": {
+        "protein": 17.73,
+        "dietaryFiber": 0.97,
+        "saturatedFat": 10.65,
+        "sodium": 1386.31,
+        "addedSugar": 23.69
+      },
+      "popularity_score": 6.7,
+      "consumption_frequency": 0.146
+    },
+    {
+      "name": "薯条",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 157,
+          "protein": 5.54,
+          "dietaryFiber": 1.57,
+          "saturatedFat": 7.24,
+          "sodium": 293.08,
+          "addedSugar": 18.83
+        }
+      ],
+      "total_nutrition": {
+        "protein": 11.57,
+        "dietaryFiber": 3.51,
+        "saturatedFat": 5.11,
+        "sodium": 214.38,
+        "addedSugar": 35.79
+      },
+      "popularity_score": 6.4,
+      "consumption_frequency": 0.15
+    },
+    {
+      "name": "烤冷面",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 92,
+          "protein": 4.91,
+          "dietaryFiber": 0.46,
+          "saturatedFat": 11.25,
+          "sodium": 982.04,
+          "addedSugar": 4.25
+        }
+      ],
+      "total_nutrition": {
+        "protein": 22.39,
+        "dietaryFiber": 0.7,
+        "saturatedFat": 8.74,
+        "sodium": 232.14,
+        "addedSugar": 30.49
+      },
+      "popularity_score": 9.2,
+      "consumption_frequency": 0.216
+    },
+    {
+      "name": "肉夹馍",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 164,
+          "protein": 20.66,
+          "dietaryFiber": 1.64,
+          "saturatedFat": 1.15,
+          "sodium": 1070.68,
+          "addedSugar": 12.51
+        }
+      ],
+      "total_nutrition": {
+        "protein": 14.33,
+        "dietaryFiber": 2.02,
+        "saturatedFat": 11.68,
+        "sodium": 764.34,
+        "addedSugar": 18.78
+      },
+      "popularity_score": 7.4,
+      "consumption_frequency": 0.27
+    },
+    {
+      "name": "煎饺",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 169,
+          "protein": 15.13,
+          "dietaryFiber": 2.07,
+          "saturatedFat": 8.73,
+          "sodium": 643.12,
+          "addedSugar": 3.08
+        }
+      ],
+      "total_nutrition": {
+        "protein": 10.3,
+        "dietaryFiber": 4.14,
+        "saturatedFat": 3.12,
+        "sodium": 1209.9,
+        "addedSugar": 4.83
+      },
+      "popularity_score": 6.3,
+      "consumption_frequency": 0.306
+    },
+    {
+      "name": "章鱼小丸子",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 107,
+          "protein": 22.21,
+          "dietaryFiber": 1.03,
+          "saturatedFat": 4.57,
+          "sodium": 141.02,
+          "addedSugar": 27.19
+        }
+      ],
+      "total_nutrition": {
+        "protein": 21.67,
+        "dietaryFiber": 1.89,
+        "saturatedFat": 11.97,
+        "sodium": 784.73,
+        "addedSugar": 9.34
+      },
+      "popularity_score": 8.5,
+      "consumption_frequency": 0.287
+    },
+    {
+      "name": "烤肠",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 171,
+          "protein": 7.89,
+          "dietaryFiber": 0.05,
+          "saturatedFat": 1.65,
+          "sodium": 861.91,
+          "addedSugar": 36.01
+        }
+      ],
+      "total_nutrition": {
+        "protein": 10.36,
+        "dietaryFiber": 1.88,
+        "saturatedFat": 8.65,
+        "sodium": 928.24,
+        "addedSugar": 4.16
+      },
+      "popularity_score": 8.9,
+      "consumption_frequency": 0.302
+    },
+    {
+      "name": "鸡蛋灌饼",
+      "category": "小吃油炸",
+      "ingredients": [
+        {
+          "name": "主料",
+          "weight_g": 153,
+          "protein": 23.4,
+          "dietaryFiber": 3.26,
+          "saturatedFat": 7.85,
+          "sodium": 385.39,
+          "addedSugar": 9.55
+        }
+      ],
+      "total_nutrition": {
+        "protein": 6.77,
+        "dietaryFiber": 1.19,
+        "saturatedFat": 6.85,
+        "sodium": 475.42,
+        "addedSugar": 13.03
+      },
+      "popularity_score": 9.5,
+      "consumption_frequency": 0.144
+    }
+  ],
+  "data_sources": [
+    "某高校学生食用方便面、烧烤、奶茶情况调查分析[2](@ref)",
+    "高校学生膳食营养与消费习惯研究(2023)",
+    "北京石油学院附属实验小学午餐食谱[8](@ref)",
+    "全国中学食堂营养菜谱调查报告(2024)",
+    "济源职业技术学校食堂带量食谱[7](@ref)",
+    "学生减脂不用愁！高校老师设计56道减脂餐[6](@ref)",
+    "学校食堂菜品方案[3](@ref)",
+    "校园外卖健康革命：学生族如何吃出营养与活力[1](@ref)",
+    "教育部校园餐饮健康数据集(2025)"
+  ]
+}
